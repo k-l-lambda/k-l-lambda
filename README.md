@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 * [Rubik's cube is matrix!](https://www.youtube.com/watch?v=vfSx63VBGxc)
 * [The best OMR app up to 2022](https://www.youtube.com/watch?v=06-q7S4Giuo&t=14s)
 
-### [OMR site on mobile: Find曲谱识别](https://parser.findpiano.cn/)
+### [My OMR web app(mobile): Find曲谱识别](https://parser.findpiano.cn/)
+![OMR site qrcode](find-omr-qrcode.svg)
