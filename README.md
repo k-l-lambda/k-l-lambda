@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 * [Cube & Matrix](https://k-l-lambda.github.io/klstudio/#/documents/dynamic-labeled-cube3)
 * [Spiral Piano](https://k-l-lambda.github.io/klstudio/#/spiral-piano)
 
-![K.L.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=k-l-lambda&rank_icon=github)
+![K.L.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=k-l-lambda&rank_icon=github&show_icons=true&hide_title=true)
