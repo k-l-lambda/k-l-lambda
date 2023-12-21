@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 * [Chess Lab (chess analyser with engine of stockfish)](https://k-l-lambda.github.io/klstudio/#/chess-lab)
 * [Cube & Matrix](https://k-l-lambda.github.io/klstudio/#/documents/dynamic-labeled-cube3)
 * [Spiral Piano](https://k-l-lambda.github.io/klstudio/#/spiral-piano)
+
+![K.L.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=k-l-lambda&rank_icon=github)
