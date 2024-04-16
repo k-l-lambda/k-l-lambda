@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 * [How to represent a Rubik's cube state in a calculable form?](https://k-l-lambda.github.io/2020/12/14/rubik-cube-notation/)
 * [StyleGAN Mapping Network Geometry Visualization](https://k-l-lambda.github.io/2020/02/10/stylegan-mapping/)
 
-### [My OMR web app(mobile): Find曲谱识别](https://parser.findpiano.cn/)
-![OMR site qrcode](find-omr-qrcode.svg)
-
 ### [My Youtube Channel](https://www.youtube.com/@k.l.6905)
 
 * [Rubik's cube is matrix!](https://www.youtube.com/watch?v=vfSx63VBGxc)
