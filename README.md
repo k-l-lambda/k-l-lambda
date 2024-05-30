@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### [My Blog](https://k-l-lambda.github.io/)
 
-* [基于VAE的音乐编码器](https://k-l-lambda.github.io/2023/11/29/vae-based-music-encoder/)
+* [Music Encode based on VAE](https://k-l-lambda.github.io/2023/11/29/vae-based-music-encoder/)
 * [Contemporary Art Genres and Artists Style Exhibition](https://k-l-lambda.github.io/2023/05/28/ai-art-styles/)
 * [How to represent a Rubik's cube state in a calculable form?](https://k-l-lambda.github.io/2020/12/14/rubik-cube-notation/)
 * [StyleGAN Mapping Network Geometry Visualization](https://k-l-lambda.github.io/2020/02/10/stylegan-mapping/)
