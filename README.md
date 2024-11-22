@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 * [Rubik's cube is matrix!](https://www.youtube.com/watch?v=vfSx63VBGxc)
 * [The best OMR app up to 2022](https://www.youtube.com/watch?v=06-q7S4Giuo&t=14s)
 
-### [K.L. Studio](https://k-l-lambda.github.io/klstudio/)
+### My Apps
 
+* [Lotus](https://huggingface.co/spaces/k-l-lambda/lotus)
 * [MIDI Web Player](https://k-l-lambda.github.io/klstudio/#/midi-player)
 * [Chess Lab (chess analyser with engine of stockfish)](https://k-l-lambda.github.io/klstudio/#/chess-lab)
 * [Cube & Matrix](https://k-l-lambda.github.io/klstudio/#/documents/dynamic-labeled-cube3)
 * [Spiral Piano](https://k-l-lambda.github.io/klstudio/#/spiral-piano)
+* [K.L. Studio](https://k-l-lambda.github.io)
 
 ![K.L.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=k-l-lambda&rank_icon=github&show_icons=true&hide_title=true)
