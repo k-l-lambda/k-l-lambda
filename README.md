@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### My Apps
 
-* [Lotus](https://huggingface.co/spaces/k-l-lambda/lotus)(a Lilyond online editor)
+* [Lotus (a Lilyond online editor)](https://huggingface.co/spaces/k-l-lambda/lotus)
 * [MIDI Web Player](https://k-l-lambda.github.io/klstudio/#/midi-player)
 * [Chess Lab (chess analyser with engine of stockfish)](https://k-l-lambda.github.io/klstudio/#/chess-lab)
 * [Cube & Matrix](https://k-l-lambda.github.io/klstudio/#/documents/dynamic-labeled-cube3)
