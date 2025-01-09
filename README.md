@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### [Blog](https://k-l-lambda.github.io/)
 
+* [How to keep your diary on Gihub]([https://k-l-lambda.github.io/](https://k-l-lambda.github.io/2025/01/03/diary-on-github/))
 * [Music Encode based on VAE](https://k-l-lambda.github.io/2023/11/29/vae-based-music-encoder/)
 * [Contemporary Art Genres and Artists Style Exhibition](https://k-l-lambda.github.io/2023/05/28/ai-art-styles/)
 * [How to represent a Rubik's cube state in a calculable form?](https://k-l-lambda.github.io/2020/12/14/rubik-cube-notation/)
