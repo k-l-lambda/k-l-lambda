@@ -35,6 +35,4 @@ Here are some ideas to get you started:
 * [Spiral Piano](https://k-l-lambda.github.io/klstudio/#/spiral-piano)
 * [K.L. Studio](https://k-l-lambda.github.io)
 
----
-
-*See my contribution activity in the graph below* ⬇️
+![K.L.'s GitHub stats](./profile/stats.svg)
