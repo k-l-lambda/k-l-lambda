@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ### Apps
 
+* [Starry (an optical music recognization demo)](https://huggingface.co/spaces/k-l-lambda/starry)
 * [Lotus (a Lilyond online editor)](https://huggingface.co/spaces/k-l-lambda/lotus)
 * [MIDI Web Player](https://k-l-lambda.github.io/klstudio/#/midi-player)
 * [Chess Lab (chess analyser with engine of stockfish)](https://k-l-lambda.github.io/klstudio/#/chess-lab)
