@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Paper
+
+- [arxiv: 2604.20522](https://arxiv.org/abs/2604.20522): From Image to Music Language: A Two-Stage Structure Decoding Approach for Complex Polyphonic OMR
+
 ### [Blog](https://k-l-lambda.github.io/)
 
 * [How to keep your diary on Github](https://k-l-lambda.github.io/2025/01/03/diary-on-github/)
