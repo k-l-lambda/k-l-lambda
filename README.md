@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Paper
+### Research
 
 - [arXiv:2604.20522](https://arxiv.org/abs/2604.20522): From Image to Music Language: A Two-Stage Structure Decoding Approach for Complex Polyphonic OMR
 
