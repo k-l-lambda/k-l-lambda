@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### [Blog](https://k-l-lambda.github.io/)
 
+* [Piano as a universal sound synthesizer](https://k-l-lambda.github.io/2026/10/20/general-piano/)
 * [How to keep your diary on Github](https://k-l-lambda.github.io/2025/01/03/diary-on-github/)
 * [Music Encoder based on VAE](https://k-l-lambda.github.io/2023/11/29/vae-based-music-encoder/)
 * [Contemporary Art Genres and Artists Style Exhibition](https://k-l-lambda.github.io/2023/05/28/ai-art-styles/)
