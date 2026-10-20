@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### Apps
 
+* [Speaking MIDI](https://huggingface.co/spaces/k-l-lambda/speaking-midi)
+* [LilyScript (A symbolic music AIGC app with Lilylet language)](https://huggingface.co/spaces/k-l-lambda/LilyScript)
 * [Starry (an optical music recognization demo)](https://huggingface.co/spaces/k-l-lambda/starry)
 * [Lotus (a Lilyond online editor)](https://huggingface.co/spaces/k-l-lambda/lotus)
 * [MIDI Web Player](https://k-l-lambda.github.io/klstudio/#/midi-player)
